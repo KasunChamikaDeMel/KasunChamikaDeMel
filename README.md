@@ -15,10 +15,10 @@
 🔍 Building a smart automated pet feeding system with IoT technologies.
 📱 Developing mobile-friendly web applications using React and Next.js.
 🌐 Exploring AR/VR for interactive user experiences.
-🏆 Achievements
-🥇 Completed [Certification or Award, e.g., "Google Cybersecurity Fundamentals"]
-🌟 Participated in [Event/Hackathon name, e.g., "HackX 2024"].
-💻 Contributed to open-source projects like [Mention notable contributions, if any].
+🏆 Achievements ..
+🥇 Completed ..
+🌟 Participated in ...
+💻 Contributed to open-source projects like ....
 🌱 Fun Facts
 🎮 A gamer at heart, I enjoy competitive online games in my downtime.
 🎨 Love experimenting with digital art and UI/UX design.
