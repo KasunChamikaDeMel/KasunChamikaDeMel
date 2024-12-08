@@ -8,11 +8,11 @@
 ---
 
 ### 🧑‍💻 **About Me**
-- 🌟 **Passionate Software Engineering Student** with interests in **Cybersecurity**, **Machine Learning**, and **Web Development**.
+- 🌟 **Passionate Software Engineering Student** with interests in **Machine Learning**, **Artificial Intelligent**, **Web Development** and **Cybersecurity**.
 - 💡 Love building **innovative projects** and solving **challenging problems** with cutting-edge technologies.
 - 🔭 **Currently exploring** AI-driven intrusion detection systems and scalable web solutions using Next.js.
-- 🎓 **3rd Year BSc (Hons) Cybersecurity Student** | Sri Lanka Technological Campus.
-- 💬 **Ask me about:** Cybersecurity, Ethical Hacking, AI/ML, and Frontend Development.
+- 🎓 **3rd Year BSc (Hons) Software Engineering Student** | Sri Lanka Technological Campus.
+- 💬 **Ask me about Ethical Hacking, AI/ML, and Frontend Development, Cybersecurity.
 
 ---
 
