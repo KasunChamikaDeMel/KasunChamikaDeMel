@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasun Chamika De Mel</h1>
-<h3 align="center">🚀 Software Engineering Student | Cybersecurity Enthusiast | Creative Innovator</h3>
+<h3 align="center">🚀 Software Engineering Student </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kasunchamikademel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,11 +8,9 @@
 ---
 
 ### 🧑‍💻 **About Me**
-- 🌟 **Passionate Software Engineering Student** with interests in **Machine Learning**, **Artificial Intelligent**, **Web Development** and **Cybersecurity**.
+- 🌟 **Passionate Software Engineering Student** with interests in **Machine Learning**, **Artificial Intelligent** and **Web Development**
 - 💡 Love building **innovative projects** and solving **challenging problems** with cutting-edge technologies.
-- 🔭 **Currently exploring** AI-driven intrusion detection systems and scalable web solutions using Next.js.
-- 🎓 **3rd Year BSc (Hons) Software Engineering Student** | Sri Lanka Technological Campus.
-- 💬 **Ask me about Ethical Hacking, AI/ML, and Frontend Development, Cybersecurity.
+- 🎓 **3rd Year BSc (Hons) in Software Engineering Student** | Sri Lanka Technological Campus, Meepe, Padukka.
 
 ---
 
@@ -21,7 +19,6 @@
   <a href="https://facebook.com/kasun.chamika.demel" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://linkedin.com/in/kasunchamikademel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/kasun_99" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/c/kasun.chamika" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:chamikakasun33635@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -47,28 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunchamikademel&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🎯 **Current Focus**
-- 🔍 Building a **smart automated pet feeding system** with IoT technologies.
-- 📱 Developing **mobile-friendly web applications** using React and Next.js.
-- 🌐 Exploring **AR/VR** for interactive user experiences.
-
----
-
-### 🏆 **Achievements**
-- 🥇 Successfully completed several hackathons and competitions.
-- 🌟 Active participation in tech community events and cybersecurity forums.
-- 💻 Contributed to open-source projects and collaborative development.
-
----
-
-### 🌱 **Fun Facts**
-- 🎮 **Gamer** at heart; I enjoy competitive online games in my downtime.
-- 🎨 **Creative** experimenter in digital art and UI/UX design.
-- 🌍 **Tech community enthusiast** who loves mentoring peers and collaborating on projects.
-
----
-
-### ✍️ **Quote I Live By**
-> "Success is not the key to happiness. Happiness is the key to success."
