@@ -10,7 +10,7 @@
 ### 🧑‍💻 **About Me**
 - 🌟 **Passionate Software Engineering Student** with interests in **Machine Learning**, **Artificial Intelligent** and **Web Development**
 - 💡 Love building **innovative projects** and solving **challenging problems** with cutting-edge technologies.
-- 🎓 **3rd Year BSc (Hons) in Software Engineering Student** | Sri Lanka Technological Campus, Meepe, Padukka.
+- 🎓 **4th Year BSc (Hons) in Software Engineering Student** | Sri Lanka Technological Campus, Meepe, Padukka.
 
 ---
 
